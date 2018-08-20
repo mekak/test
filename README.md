@@ -1,5 +1,3 @@
 # test
-
 hello world.
-
-welcome to jenkins
+welcome to jenkins.
